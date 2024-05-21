@@ -1,0 +1,47 @@
+{
+    "id": "0553556a-5a88-4dfc-8bd2-af232b3fd91b",
+    "name": "GBIReports",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "69af54a3-1cd8-4fd9-8f66-333797d20899",
+            "name": "GBIMergerdExtension",
+            "version": "1.0.0.5",
+            "publisher": "EBT ME LLC"
+        },
+        
+        {
+            "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+              "publisher": "LS Retail",
+              "version": "22.4.0.1005045",
+              "name": "LS Central"
+            }
+
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "23.0.0.0",
+    "idRanges": [
+        {
+            "from": 70000,
+            "to": 70050
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "12.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
